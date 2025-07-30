@@ -84,12 +84,16 @@
   font-size: .95rem;
   background-color: #a80203;
 }
-.sec-2 h3,.sec-2 h3 span{
+.sec-2 h2 span{
+  display: inline;
+}
+.sec-2 h2,.sec-2 h2 span{
   font-family: 'Times New Roman', Times, serif;
 }
-.sec-2 h3 span,.sec-2 h4{
+.sec-2 h2 span,.sec-2 h4{
   color: rgb(146, 1, 1);
 }
+
 .k-button{
   background-image: url(images/lf_bt_hr_shadow.png);
   background-repeat: no-repeat;
@@ -117,7 +121,7 @@
   font-size: 1.2rem;
 }
 
-.nav-link:hover {
+.nav-bar.nav-link:hover {
   color: #ccc;
 }
 .custom-navbar {
@@ -125,3 +129,4 @@
 }
 .top-br{border-top: 1px solid gray;}
 .side-br{border:none;border-left: 1px solid gray;border-right: 1px solid gray;}
+.mainbody-col1{font-size: 1.2rem;}
