@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  body{
+    background-color: grey;
+    padding: 0 10px;
+  }
+  .container-fluid1{
+    background-color: white;
+    padding-bottom: 100px !important;
+    border-bottom: 15px solid rgb(146, 1, 1);
+  }
+  .call{
+  color: rgb(121 1 1);
+  font-weight: 800;
+  font-size: .97rem;
+}
+.number{
+  font-weight: 900;
+  font-size: 1.9rem;
+}
+ 
+.ques{
+  color: grey;
+  font-weight: 700;
+  font-size: .88rem;
+}
+.images-sec2,.images-sec1{
+  box-shadow: 0 0 5px rgb(61, 61, 61);
+}
+.nav-bar i{
+  font-size: 1.5rem;
+}
+.nav-bar ul li a:hover{
+  background-color: grey;
+}
+.menu-list{
+  font-size: 2rem;
+  color: #ccc;
+}
+.column-1{
+  border-left: 8px solid rgb(121 1 1);
+}
+.column-1 a{
+  text-decoration: none;
+  color: rgb(146, 1, 1);
+
+}
+.images-sec2{
+  background-image: url("images/form_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.head{
+  background-color: rgb(121 1 1);
+  font-size: 1.25rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+.have-ques{
+  font-weight: 800;
+  font-size: 1.35rem;
+}
+.have-ques span{
+  font-size: 2rem;
+  font-weight: 900;
+  color: #002b8b;
+}
+.para{
+  font-size: 1.2rem;
+}
+.confidential{
+  transform: rotate(25deg);
+}
+.guaranty{
+  color:  rgb(66, 66, 66);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: .8rem;
+}
+
+.btn{
+  font-size: .95rem;
+  background-color: #a80203;
+}
+.sec-2 h3,.sec-2 h3 span{
+  font-family: 'Times New Roman', Times, serif;
+}
+.sec-2 h3 span,.sec-2 h4{
+  color: rgb(146, 1, 1);
+}
+.k-button{
+  background-image: url(images/lf_bt_hr_shadow.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: top center;
+  border-top: solid grey 1px;
+}
+.column-1{
+  background-color: gray;
+  box-shadow: 2px 2px 2px rgb(56, 56, 56);
+}
+
+
+.custom-toggler {
+  top: 0.5rem;
+  left: 0.5rem;
+  z-index: 1001;
+  color: white;
+  border: none;
+  background: transparent;
+}
+
+.nav-link {
+  color: white;
+  font-size: 1.2rem;
+}
+
+.nav-link:hover {
+  color: #ccc;
+}
+.custom-navbar {
+  background-color: rgb(121 1 1);
+}
+.top-br{border-top: 1px solid gray;}
+.side-br{border:none;border-left: 1px solid gray;border-right: 1px solid gray;}
