@@ -16,17 +16,17 @@
   .call{
   color: rgb(121 1 1);
   font-weight: 800;
-  font-size: .97rem;
+  font-size: 1.36rem;
 }
 .number{
   font-weight: 900;
-  font-size: 1.9rem;
+  font-size: 2.66rem;
 }
  
 .ques{
   color: grey;
   font-weight: 700;
-  font-size: .88rem;
+  font-size: 1.2rem;
 }
 .images-sec2,.images-sec1{
   box-shadow: 0 0 5px rgb(61, 61, 61);
@@ -69,7 +69,7 @@
   color: #002b8b;
 }
 .para{
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 .confidential{
   transform: rotate(25deg);
